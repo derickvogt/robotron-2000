@@ -1,4 +1,5 @@
-# Alura Midi
+![](/img/screenshots/img.png)
+# Robotron 2000
 
 ## ⏳ Status do Projeto
 
@@ -7,15 +8,15 @@
 
 ## 🗒️ Descrição
 
-Alura Midi é o projeto proposto da Alura para manipular o HTML e CSS utilizando o JavaScript. Foi criado um painel de sons, onde cada botão reproduz um som de percussão.
+"As forças alienígenas estão atacando a terra e precisamos da sua ajuda para montar um robô para combater essa ameaça". Esse é o conceito inicial para de fato construirmos uma aplicação que manipula diretamente os elementos do DOM (Document Object Model). Conforme modificamos a quantidade de partes do robo (braços, núcleos, pernas, etc.) alteramos dinâmicamente as estatísticas do robô.
 
- ## Demonstração
+ ## ⚙️ Demonstração
 
-![](/images/screenshot1.gif)
+![](img/screenshots/demonstration.gif)
 
 ## ☑️ Funcionalidades
 
-O usuário poderá interagir com a um painel contendo os sons. O painel é interativo, quando o usuário clicar em um som, o som correspondente será emitido e o painel terá interação de ação com o usuário.
+O usuário terá o painel onde poderá alterar as partes do robô, como braços, pernas, núcelos, etc. Conforme alteramos as partes do robô, as estatísticas são atualizadas dinâmicamente, dando a noção ao usuário sobre como juntar as peças e montar o robô.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -55,8 +56,12 @@ O programa proporcionou uma jornada incrível de aprendizado e desenvolvimento p
 
 Mais uma vez, obrigado por esta oportunidade inestimável.
 
+<img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,c_limit,w_640,q_auto/v1/blz/assets-store/0.0.405/images/academy/desenvolve_logo_oficial_azul%20final">
+
 <img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,c_limit,w_640,q_auto/v1/blz/assets-store/0.0.405/images/academy/gb-horizontal.svg">
 
 <img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg">
+
+
 
 
