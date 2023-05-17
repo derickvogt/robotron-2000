@@ -1,0 +1,62 @@
+# Alura Midi
+
+## ⏳ Status do Projeto
+
+![](https://img.shields.io/static/v1?label=Status&message=Finalizado&color=sucess)
+
+
+## 🗒️ Descrição
+
+Alura Midi é o projeto proposto da Alura para manipular o HTML e CSS utilizando o JavaScript. Foi criado um painel de sons, onde cada botão reproduz um som de percussão.
+
+ ## Demonstração
+
+![](/images/screenshot1.gif)
+
+## ☑️ Funcionalidades
+
+O usuário poderá interagir com a um painel contendo os sons. O painel é interativo, quando o usuário clicar em um som, o som correspondente será emitido e o painel terá interação de ação com o usuário.
+
+## 🤖 Tecnologias Utilizadas
+
+* HTML 5
+* CSS 3
+* JavaScript
+
+## 🚀 Como Executar o Projeto.
+
+Para reproduzir o projeto localmente, basta baixar o repositório e através do arquivo `index.html` executá-lo no navegador. A estrutura de diretórios e arquivos contidos deve ser mantida.
+
+## ✍🏻 Autor
+
+
+
+<div style="text-align: center;">
+<img src="https://avatars.githubusercontent.com/u/22062948?v=4" style="width:100px; border-radius: 50%;}">
+
+Derick Vogt
+
+[![Portólio](https://img.shields.io/badge/meu_portfólio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derickvogt)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derickvogt/)
+</div>
+
+
+
+## ©️ Licença
+
+Este projeto é licenciado sob a licença [MIT](https://choosealicense.com/licenses/mit/). Consulte o arquivo LICENSE para obter mais informações.
+
+
+## 🙏🏻 Agradecimentos
+
+Gostaria de expressar gratidão ao Grupo Boticário e à Alura pelo incrível Programa Desenvolve. Esta sendo uma oportunidade única.
+
+O programa proporcionou uma jornada incrível de aprendizado e desenvolvimento pessoal, além de permitir conhecer profissionais talentosos e inspiradores, e poder aprender desenvolvimento de software de forma profissional com os melhores mestres na área através dessa incrível parceria com a Alura.
+
+Mais uma vez, obrigado por esta oportunidade inestimável.
+
+<img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,c_limit,w_640,q_auto/v1/blz/assets-store/0.0.405/images/academy/gb-horizontal.svg">
+
+<img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg">
+
+
